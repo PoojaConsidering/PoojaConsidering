@@ -1,5 +1,5 @@
 <h1 align="center">Hello and Namaskara</h1>
-- Currently working on [USB Security](https://github.com/PoojaConsidering/USBVerification)
+- Currently working on [USB Security](https://github.com/PoojaConsidering/USBVerification) (private currently, research based)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
