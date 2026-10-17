@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PoojaConsidering">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+Pooja+%E2%80%94+student+%40+VIT;%3E+security+research+%7C+systems+%7C+hardware;%3E+currently+hacking+on+USB+security+%F0%9F%94%90;%24+sudo+make+something+cool" alt="typing intro"/>
-  </a>
+  <a href="https://github.com/PoojaConsidering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+Pooja+%E2%80%94+student+%40+VIT;%3E+security+research+%7C+systems+%7C+hardware;%3E+currently+hacking+on+USB+security+%F0%9F%94%90;%24+sudo+make+something+cool" alt="typing intro"/></a>
 </p>
 
 <p align="center">
