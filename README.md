@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PoojaConsidering"><img src="https://komarev.com/ghpvc/?username=PoojaConsidering&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" alt="visitors"/></a>
+  <a href="https://pooja-am-i-right.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%88%20VISIT%20MY%20PORTFOLIO-pooja--am--i--right.vercel.app-00ff41?style=for-the-badge&labelColor=000000" alt="Visit my portfolio"/></a>
 </p>
 
 ---
