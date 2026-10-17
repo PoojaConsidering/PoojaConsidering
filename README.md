@@ -89,12 +89,8 @@ pooja@github:~$ ./about_me.sh
 ### `> ping pooja`
 
 <p align="left">
-  <a href="https://linkedin.com/in/pooja-kr-369n111" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://www.leetcode.com/pooja_kayar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  </a>
+  <a href="https://linkedin.com/in/pooja-kr-369n111" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://www.leetcode.com/pooja_kayar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
