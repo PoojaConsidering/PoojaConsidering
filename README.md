@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PoojaConsidering&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" alt="visitors"/>
+  <a href="https://github.com/PoojaConsidering">
+    <img src="https://komarev.com/ghpvc/?username=PoojaConsidering&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" alt="visitors"/>
+  </a>
 </p>
 
 ---
