@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pooja-am-i-right.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%88%20VISIT%20MY%20PORTFOLIO-pooja--am--i--right.vercel.app-00ff41?style=for-the-badge&labelColor=000000" alt="Visit my portfolio"/></a>
+  <a href="https://pooja-am-i-right.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff4d6d,20:ff9f1c,40:ffd23f,60:5fd068,80:3ec5e8,100:7b5cff&height=110&section=header&text=%F0%9F%8C%88%20Visit%20my%20Portfolio%20%E2%86%92&fontSize=42&fontColor=1b1530&stroke=ffffff&strokeWidth=2&fontAlignY=42&desc=pooja-am-i-right.vercel.app%20%C2%B7%20click%20me!&descSize=18&descAlignY=76&animation=twinkling" width="70%" alt="Visit my portfolio: pooja-am-i-right.vercel.app"/></a>
 </p>
 
 ---
